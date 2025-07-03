@@ -4,7 +4,7 @@ This project explores a one-time survey dataset that examines the connection bet
 
 🔗 **Dataset Source**:  
 [Social Media Addiction vs Relationships (Kaggle)](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)
-### **[View Interactive Dashboard](https://public.tableau.com/views/ocialMediaUseandItsImpactonRelationshipsWellbeing/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+### **[View Dashboard](https://public.tableau.com/views/ocialMediaUseandItsImpactonRelationshipsWellbeing/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 Explore platform preferences, screen time, relationship status, and mental health metrics across different age groups and genders.
 
 
