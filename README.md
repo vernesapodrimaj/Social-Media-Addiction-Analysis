@@ -1,5 +1,3 @@
-# Social-Media-Addiction-Analysis
-Analysis of social media addiction, mental health, and relationships using Python &amp; pandas
 # 📊 Social Media Addiction vs Relationships – Data Analysis
 
 This project explores a one-time survey dataset that examines the connection between students' social media usage and its effects on their **sleep**, **mental health**, **academic performance**, and **relationships**.
