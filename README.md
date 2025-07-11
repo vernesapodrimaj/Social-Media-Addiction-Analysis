@@ -127,5 +127,5 @@ plt.show()
 ```
 
 ### **[View Dashboard](https://public.tableau.com/views/ocialMediaUseandItsImpactonRelationshipsWellbeing/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
-Explore platform preferences, screen time, relationship status, and mental health metrics
+
 
